@@ -8,14 +8,14 @@
     color: var(--text);
 }
 :root{
-    --background: #0d0d0d;
-    --accent-back: #161616;
-    --accent-200: #2a2a2a;
-    --text: white;
-    --text-100: #b3b3b3;
-    --yellow: #ffd60a;
-    --yellow-700: #f5c400;
-    --yellow-800: #e6c200;
+        --background: #0d0d0d;
+        --accent-back: #161616;
+        --accent-200: #2a2a2a;
+        --text: white;
+        --text-100: #b3b3b3;
+        --yellow: #ffd60a;
+        --yellow-700: #f5c400;
+        --yellow-800: #e6c200;
 }
 html, body{
     height: 100vh;
@@ -819,18 +819,6 @@ a{
 /* ----------- */
 
 /* Till Complete Changes */
-#cv{
-    color: rgb(122, 122, 122);
-    border: 1px solid rgb(122, 122, 122);
-    transition: all;
-}
-#cv:hover{
-    border: 1px solid rgb(122, 122, 122);
-    transform: scale(1);
-}
-.bi-download{
-    color: rgb(122, 122, 122);
-}
 #projects{
     display: none !important;
 }
